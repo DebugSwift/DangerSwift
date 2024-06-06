@@ -1,0 +1,9 @@
+.build
+temp
+build
+test_output
+Package.resolved
+Gemfile.lock
+.swiftpm
+report.xml
+fastlane/readme.md
