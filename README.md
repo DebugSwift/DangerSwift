@@ -28,7 +28,7 @@ Named by the git of `GITHUB_TOKEN`
 
 ---
 
-## 2. Create or copy from the example to your github:
+## 2. Create or copy from the [Example](https://github.com/MaatheusGois/DangerSwiftExample) to your github:
 
 - `.github/workflows/danger.yml`
 - `.swiftlint.yml`
