@@ -1,6 +1,6 @@
 # DangerSwift Actions
 
-## 1. Create or copy from the [Example](https://github.com/DebugSwift/DebugSwift) to your github:
+## 1. Create or copy from the [Example](https://github.com/DebugSwift/DebugSwift/pull/113) to your github:
 
 - `.github/workflows/danger.yml`
 - `.swiftlint.yml`
