@@ -1,7 +1,24 @@
-# DangerSwift Actions
+# **DangerSwift: Automate Code Reviews in Swift Projects with Github Actions**  
 
-### 1. Create or copy from the [Example](https://github.com/DebugSwift/DebugSwift/pull/113) to your github:
+DangerSwift is a plugin for [Danger](https://danger.systems/swift) tailored to Swift projects. It helps automate code review tasks, ensuring your pull requests meet your team’s standards. With DangerSwift, you can enforce linting rules, track test coverage, detect large file additions, and much more — all integrated into your CI/CD pipeline.  
 
+
+<img width="966" alt="debug swift" src="https://github.com/user-attachments/assets/1356a78b-c3ed-473d-bd65-e10656baed06" />
+
+
+Key Features:
+- Written in Swift, with full support for the language's ecosystem.
+- Flexible DSL for writing custom rules.
+- Works seamlessly with popular CI services like GitHub Actions, Bitrise, and more.
+- Actively maintained and community-driven.
+
+Get started with automating your code reviews today!
+
+# Example
+<img width="1048" alt="example" src="https://github.com/user-attachments/assets/37a74baa-d22e-48e1-a4af-566c56064509" />
+
+
+### 1. See this example: [Example](https://github.com/DebugSwift/DebugSwift/pull/113) :
 
 <br>
 
